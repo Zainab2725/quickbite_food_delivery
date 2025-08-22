@@ -623,7 +623,7 @@ footer .footer_2 .footer_top .btns button:nth-child(1) span {
   display: inline-block;
   width: 44px;
   height: 33px;
-  background: url("https://b.zmtcdn.com/data/webuikit/0687ff554c86e36cda9498212e221af61563274375.png") -141px
+  background: url("assets/https://b.zmtcdn.com/data/webuikit/0687ff554c86e36cda9498212e221af61563274375.png") -141px
     0px no-repeat;
   transform: scale(0.6);
 }
