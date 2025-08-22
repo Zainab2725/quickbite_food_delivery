@@ -5,14 +5,6 @@ Built using **HTML, CSS, and JavaScript** .
 
 ---
 
-## 📂 Project Structure
-├── index.html
-├── style.css
-├── script.js
-└── assets/ (images, icons, etc.)
-
----
-
 ## 💻 How to Run
 1. Clone the repository  
    ```bash
