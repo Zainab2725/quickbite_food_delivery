@@ -1,7 +1,7 @@
 # QuickBite PK
 
 **QuickBite PK** – A food delivery and restaurant discovery website.  
-Built using **HTML, CSS, and JavaScript** (not responsive).
+Built using **HTML, CSS, and JavaScript** .
 
 ---
 
